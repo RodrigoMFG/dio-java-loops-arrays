@@ -1,5 +1,5 @@
 package com.exercicios.arrays.exercicios;
-import java.util.Arrays;
+
 public class Ex1_OrdemInversa {
 
     public static void main(String[] args) {
@@ -9,8 +9,5 @@ public class Ex1_OrdemInversa {
             System.out.println(vetor[i]);
         }
     }
-
-
-
 
 }
